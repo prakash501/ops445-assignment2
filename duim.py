@@ -8,7 +8,7 @@ import os
 '''
 OPS445 Assignment 2 - Winter 2022
 Program: duim.py 
-Author: "Student Name"
+Author: "Prakash Gautam"
 The python code in this file (duim.py) is original work written by
 "Student Name". No code in this file is copied from any other source 
 except those provided by the course instructor, including any person, 
