@@ -5,6 +5,23 @@ import subprocess
 import sys
 import os
 
+'''
+OPS445 Assignment 2 - Winter 2022
+Program: duim.py 
+Author: "Student Name"
+The python code in this file (duim.py) is original work written by
+"Student Name". No code in this file is copied from any other source 
+except those provided by the course instructor, including any person, 
+textbook, or on-line resource. I have not shared this python script 
+with anyone or anything except for submission for grading.  
+I understand that the Academic Honesty Policy will be enforced and 
+violators will be reported and appropriate action will be taken.
+
+Description: This program provides an improved disk usage report with bar charts.
+It displays the disk usage of subdirectories within a target directory in a
+visual format, with options to customize the output.
+'''
+
 def parse_command_args():
     """Parse and return command line arguments"""
     parser = argparse.ArgumentParser(
